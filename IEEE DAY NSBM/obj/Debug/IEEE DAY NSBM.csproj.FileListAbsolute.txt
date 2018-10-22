@@ -1,0 +1,21 @@
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\bin\Debug\IEEE DAY NSBM.exe.config
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\bin\Debug\IEEE DAY NSBM.exe
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\bin\Debug\IEEE DAY NSBM.pdb
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\bin\Debug\MetroFramework.dll
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\obj\Debug\IEEE DAY NSBM.csprojAssemblyReference.cache
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\obj\Debug\IEEE_DAY_NSBM.Form1.resources
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\obj\Debug\IEEE_DAY_NSBM.Properties.Resources.resources
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\obj\Debug\IEEE DAY NSBM.csproj.GenerateResource.cache
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\obj\Debug\IEEE DAY NSBM.csproj.CoreCompileInputs.cache
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\obj\Debug\IEEE DAY NSBM.csproj.CopyComplete
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\obj\Debug\IEEE DAY NSBM.exe
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\obj\Debug\IEEE DAY NSBM.pdb
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\bin\Debug\MySql.Data.dll
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\bin\Debug\Google.Protobuf.dll
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\bin\Debug\MySql.Data.xml
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\obj\Debug\IEEE_DAY_NSBM.PopUpQR1.resources
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\obj\Debug\IEEE_DAY_NSBM.PopUpQR2.resources
+C:\Users\Kavindu Theekshana\source\repos\IEEE DAY NSBM\IEEE DAY NSBM\obj\Debug\IEEE_DAY_NSBM.PopUpQR3.resources
