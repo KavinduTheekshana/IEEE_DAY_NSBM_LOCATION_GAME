@@ -66,11 +66,7 @@ namespace IEEE_DAY_NSBM
                     }
                     else
                     {
-                        MessageBox.Show("Wrong Answer", "Invalid Details", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                        num1.Clear();
-                        num2.Clear();
-                        num3.Clear();
-                        num4.Clear();
+                       
                     }
 
 
